@@ -1,6 +1,6 @@
 ---
 name: Shirin Khanam
-image: images/placeholder-headshot.png
+image: images/shirin.jpg
 description: Research Scientist
 role: sci
 links:
