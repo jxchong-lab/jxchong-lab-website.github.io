@@ -1,67 +1,675 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: pubmed:35191117
+  title: 'Variant-level matching for diagnosis and discovery: Challenges and opportunities.'
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-06-02'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  extra-links:
-  - type: manubot
-    link: https://greenelab.github.io/knowledge-graph-review/
-  tags:
-  - knowledge graphs
-  _cache: 2b8aa76c98be2f26481ab15dc135eb446fa9ef6f94af175c9639d1a45d538cf4
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
+  - Eliete da S Rodrigues
+  - Sean Griffith
+  - Renan Martin
+  - Corina Antonescu
+  - Jennifer E Posey
+  - Zeynep Coban-Akdemir
+  - Shalini N Jhangiani
+  - Kimberly F Doheny
+  - James R Lupski
+  - David Valle
+  - Michael J Bamshad
+  - Ada Hamosh
+  - Assaf Sheffer
+  - Jessica X Chong
+  - Yaron Einhorn
+  - Miro Cupak
+  - Nara Sobreira
+  publisher: Human mutation
+  date: '2022-03-21'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/35191117
+  _cache: 6fe91d747f5a7ff1900e563f07c209dbf19c7449adc9f7159cad191a6e43ba8d
+- id: pubmed:35148959
+  title: 'Centers for Mendelian Genomics: A decade of facilitating gene discovery.'
   authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2019-06-24'
-  link: https://doi.org/c7np
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  repo: greenelab/meta-review
-  extra-links:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  _cache: 189b56e366896b6a90ae8d64fc4e605797d2bdd07674653d81ae533b2f1e4672
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+  - Samantha M Baxter
+  - Jennifer E Posey
+  - Nicole J Lake
+  - Nara Sobreira
+  - Jessica X Chong
+  - Steven Buyske
+  - Elizabeth E Blue
+  - Lisa H Chadwick
+  - Zeynep H Coban-Akdemir
+  - Kimberly F Doheny
+  - Colleen P Davis
+  - Monkol Lek
+  - Christopher Wellington
+  - Shalini N Jhangiani
+  - Mark Gerstein
+  - Richard A Gibbs
+  - Richard P Lifton
+  - Daniel G MacArthur
+  - Tara C Matise
+  - James R Lupski
+  - David Valle
+  - Michael J Bamshad
+  - Ada Hamosh
+  - Shrikant Mane
+  - Deborah A Nickerson
+  - ' '
+  - Heidi L Rehm
+  - Anne O'Donnell-Luria
+  publisher: 'Genetics in medicine : official journal of the American College of Medical
+    Genetics'
+  date: '2022-02-09'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/35148959
+  _cache: bcd6956be028678bf74345308b829f6887c54ff97cf08549d71491ac065ffb8b
+- id: pubmed:33275912
+  title: "Response to Hall et\_al."
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-  extra-links:
-  - type: preprint
-    link: https://doi.org/10.7287/peerj.preprints.3100v1
-  - type: manubot
-    link: https://greenelab.github.io/scihub-manuscript/
-  - type: source
-    link: https://github.com/greenelab/scihub-manuscript
-    text: Manuscript source
-  - type: source
-    link: https://github.com/greenelab/scihub
-    text: Analyses source
-  _cache: 483a564e9ddf847e6372cafb31de4673771c3e4da664c0d86a7ea7c38c20318d
+  - Jessica X Chong
+  - Jared C Talbot
+  - Emily M Teets
+  - Samantha Previs
+  - Brit L Martin
+  - Kathryn M Shively
+  - Colby T Marvin
+  - Arthur S Aylsworth
+  - Reem Saadeh-Haddad
+  - Ulrich A Schatz
+  - Francesca Inzana
+  - Tawfeg Ben-Omran
+  - Fatima Almusafri
+  - Mariam Al-Mulla
+  - Kati J Buckingham
+  - Tamar Harel
+  - Hagar Mor-Shaked
+  - Periyasamy Radhakrishnan
+  - Katta M Girisha
+  - Shalini S Nayak
+  - Anju Shukla
+  - Klaus Dieterich
+  - Julien Faure
+  - John Rendu
+  - Yline Capri
+  - Xenia Latypova
+  - Deborah A Nickerson
+  - David Warshaw
+  - Paul M Janssen
+  - ' '
+  - Sharon L Amacher
+  - Michael J Bamshad
+  publisher: American journal of human genetics
+  date: '2020-12-03'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33275912
+  _cache: f46e1d589a32b226b6810f9aa49e4db6410313aa1d240e3570e066c210b5c8e3
+- id: pubmed:32707087
+  title: Mutations in MYLPF Cause a Novel Segmental Amyoplasia that Manifests as Distal
+    Arthrogryposis.
+  authors:
+  - Jessica X Chong
+  - Jared C Talbot
+  - Emily M Teets
+  - Samantha Previs
+  - Brit L Martin
+  - Kathryn M Shively
+  - Colby T Marvin
+  - Arthur S Aylsworth
+  - Reem Saadeh-Haddad
+  - Ulrich A Schatz
+  - Francesca Inzana
+  - Tawfeg Ben-Omran
+  - Fatima Almusafri
+  - Mariam Al-Mulla
+  - Kati J Buckingham
+  - Tamar Harel
+  - Hagar Mor-Shaked
+  - Periyasamy Radhakrishnan
+  - Katta M Girisha
+  - Shalini S Nayak
+  - Anju Shukla
+  - Klaus Dieterich
+  - Julien Faure
+  - John Rendu
+  - Yline Capri
+  - Xenia Latypova
+  - Deborah A Nickerson
+  - David M Warshaw
+  - Paul M L Janssen
+  - ' '
+  - Sharon L Amacher
+  - Michael J Bamshad
+  publisher: American journal of human genetics
+  date: '2020-07-23'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32707087
+  _cache: 20c5ea8df39508338e1e778d2b14cdbe611db274b3d1b4aebc3a27abf04bc984
+- id: pubmed:32461654
+  title: The mutational constraint spectrum quantified from variation in 141,456 humans.
+  authors:
+  - Konrad J Karczewski
+  - Laurent C Francioli
+  - Grace Tiao
+  - Beryl B Cummings
+  - "Jessica Alf\xF6ldi"
+  - Qingbo Wang
+  - Ryan L Collins
+  - Kristen M Laricchia
+  - Andrea Ganna
+  - Daniel P Birnbaum
+  - Laura D Gauthier
+  - Harrison Brand
+  - Matthew Solomonson
+  - Nicholas A Watts
+  - Daniel Rhodes
+  - Moriel Singer-Berk
+  - Eleina M England
+  - Eleanor G Seaby
+  - Jack A Kosmicki
+  - Raymond K Walters
+  - Katherine Tashman
+  - Yossi Farjoun
+  - Eric Banks
+  - Timothy Poterba
+  - Arcturus Wang
+  - Cotton Seed
+  - Nicola Whiffin
+  - Jessica X Chong
+  - Kaitlin E Samocha
+  - Emma Pierce-Hoffman
+  - Zachary Zappala
+  - Anne H O'Donnell-Luria
+  - Eric Vallabh Minikel
+  - Ben Weisburd
+  - Monkol Lek
+  - James S Ware
+  - Christopher Vittal
+  - Irina M Armean
+  - Louis Bergelson
+  - Kristian Cibulskis
+  - Kristen M Connolly
+  - Miguel Covarrubias
+  - Stacey Donnelly
+  - Steven Ferriera
+  - Stacey Gabriel
+  - Jeff Gentry
+  - Namrata Gupta
+  - Thibault Jeandet
+  - Diane Kaplan
+  - Christopher Llanwarne
+  - Ruchi Munshi
+  - Sam Novod
+  - Nikelle Petrillo
+  - David Roazen
+  - Valentin Ruano-Rubio
+  - Andrea Saltzman
+  - Molly Schleicher
+  - Jose Soto
+  - Kathleen Tibbetts
+  - Charlotte Tolonen
+  - Gordon Wade
+  - Michael E Talkowski
+  - ' '
+  - Benjamin M Neale
+  - Mark J Daly
+  - Daniel G MacArthur
+  publisher: Nature
+  date: '2020-05-27'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32461654
+  _cache: 6e29551c62767f7fd0c4ab1075f0fea767301180f67dc4cd3dea21aaf821b839
+- id: pubmed:31723249
+  title: De novo and inherited variants in ZNF292 underlie a neurodevelopmental disorder
+    with features of autism spectrum disorder.
+  authors:
+  - Ghayda M Mirzaa
+  - Jessica X Chong
+  - "Am\xE9lie Piton"
+  - Bernt Popp
+  - Kimberly Foss
+  - Hui Guo
+  - Ricardo Harripaul
+  - Kun Xia
+  - Joshua Scheck
+  - Kimberly A Aldinger
+  - Samin A Sajan
+  - Sha Tang
+  - Dominique Bonneau
+  - Anita Beck
+  - Janson White
+  - Sonal Mahida
+  - Jacqueline Harris
+  - Constance Smith-Hicks
+  - Juliane Hoyer
+  - Christiane Zweier
+  - "Andr\xE9 Reis"
+  - Christian T Thiel
+  - Rami Abou Jamra
+  - Natasha Zeid
+  - Amy Yang
+  - Laura S Farach
+  - Laurence Walsh
+  - Katelyn Payne
+  - Luis Rohena
+  - Milen Velinov
+  - Alban Ziegler
+  - Elise Schaefer
+  - Vincent Gatinois
+  - "David Genevi\xE8ve"
+  - Marleen E H Simon
+  - Jennefer Kohler
+  - Joshua Rotenberg
+  - Patricia Wheeler
+  - Austin Larson
+  - Michelle E Ernst
+  - Cigdem I Akman
+  - Rachel Westman
+  - Patricia Blanchet
+  - Lori-Anne Schillaci
+  - Catherine Vincent-Delorme
+  - Karen W Gripp
+  - Francesca Mattioli
+  - "Gwena\xEBl Le Guyader"
+  - "B\xE9n\xE9dicte Gerard"
+  - "Mich\xE8le Mathieu-Dramard"
+  - Gilles Morin
+  - Roksana Sasanfar
+  - Muhammad Ayub
+  - Nasim Vasli
+  - Sandra Yang
+  - Rick Person
+  - Kristin G Monaghan
+  - Deborah A Nickerson
+  - Ellen van Binsbergen
+  - Gregory M Enns
+  - Annika M Dries
+  - Leah J Rowe
+  - Anne C H Tsai
+  - Shayna Svihovec
+  - Jennifer Friedman
+  - Zehra Agha
+  - Raheel Qamar
+  - Lance H Rodan
+  - Julian Martinez-Agosto
+  - Charlotte W Ockeloen
+  - Marie Vincent
+  - William James Sunderland
+  - Jonathan A Bernstein
+  - ' '
+  - Evan E Eichler
+  - John B Vincent
+  - ' '
+  - Michael J Bamshad
+  publisher: 'Genetics in medicine : official journal of the American College of Medical
+    Genetics'
+  date: '2019-11-14'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/31723249
+  _cache: e2d40d511130350c57a81513b762c1e5a1fc063f8d2c38ea6047b86fce1c6a6b
+- id: pubmed:31491408
+  title: 'Mendelian Gene Discovery: Fast and Furious with No End in Sight.'
+  authors:
+  - Michael J Bamshad
+  - Deborah A Nickerson
+  - Jessica X Chong
+  publisher: American journal of human genetics
+  date: '2019-09-05'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/31491408
+  _cache: 2f10dec474eac3cff286398c21887ea88fde45f9ba64e9f511d0338ed192b3e5
+- id: pubmed:30655598
+  title: Insights into genetics, human biology and disease gleaned from family based
+    genomic studies.
+  authors:
+  - Jennifer E Posey
+  - Anne H O'Donnell-Luria
+  - Jessica X Chong
+  - Tamar Harel
+  - Shalini N Jhangiani
+  - Zeynep H Coban Akdemir
+  - Steven Buyske
+  - Davut Pehlivan
+  - Claudia M B Carvalho
+  - Samantha Baxter
+  - Nara Sobreira
+  - Pengfei Liu
+  - Nan Wu
+  - Jill A Rosenfeld
+  - Sushant Kumar
+  - Dimitri Avramopoulos
+  - Janson J White
+  - Kimberly F Doheny
+  - P Dane Witmer
+  - Corinne Boehm
+  - V Reid Sutton
+  - Donna M Muzny
+  - Eric Boerwinkle
+  - "Murat G\xFCnel"
+  - Deborah A Nickerson
+  - Shrikant Mane
+  - Daniel G MacArthur
+  - Richard A Gibbs
+  - Ada Hamosh
+  - Richard P Lifton
+  - Tara C Matise
+  - Heidi L Rehm
+  - Mark Gerstein
+  - Michael J Bamshad
+  - David Valle
+  - James R Lupski
+  - ' '
+  publisher: 'Genetics in medicine : official journal of the American College of Medical
+    Genetics'
+  date: '2019-01-18'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30655598
+  _cache: 78840354092bdbde0ac7c0293ea76e3ded7c83c2b274ffbc5715931df147612b
+- id: pubmed:29632381
+  title: Plain-language medical vocabulary for precision diagnosis.
+  authors:
+  - Nicole A Vasilevsky
+  - Erin D Foster
+  - Mark E Engelstad
+  - Leigh Carmody
+  - Matt Might
+  - Chip Chambers
+  - Hugh J S Dawkins
+  - Janine Lewis
+  - Maria G Della Rocca
+  - Michelle Snyder
+  - Cornelius F Boerkoel
+  - Ana Rath
+  - Sharon F Terry
+  - Alastair Kent
+  - Beverly Searle
+  - Gareth Baynam
+  - Erik Jones
+  - Pam Gavin
+  - Michael Bamshad
+  - Jessica Chong
+  - Tudor Groza
+  - David Adams
+  - Adam C Resnick
+  - Allison P Heath
+  - Chris Mungall
+  - Ingrid A Holm
+  - Kayli Rageth
+  - Catherine A Brownstein
+  - Kent Shefchek
+  - Julie A McMurry
+  - Peter N Robinson
+  - "Sebastian K\xF6hler"
+  - Melissa A Haendel
+  publisher: Nature genetics
+  date: '2018-04-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29632381
+  _cache: f4194632022b47369c7e5e394acf2889610e617fdb61beb182e9596fa4a574c8
+- id: pubmed:28884921
+  title: Survival beyond the perinatal period expands the phenotypes caused by mutations
+    in GLE1.
+  authors:
+  - Edith Said
+  - Jessica X Chong
+  - Maja Hempel
+  - Jonas Denecke
+  - Paul Soler
+  - Tim Strom
+  - Deborah A Nickerson
+  - Christian Kubisch
+  - ' '
+  - Michael J Bamshad
+  - Davor Lessel
+  publisher: American journal of medical genetics. Part A
+  date: '2017-09-08'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/28884921
+  _cache: 8d8406803097e4de182aee23db86981b900602b650b1273260b26ea4546c728a
+- id: pubmed:29044468
+  title: Matchmaker Exchange.
+  authors:
+  - Nara L M Sobreira
+  - Harindra Arachchi
+  - Orion J Buske
+  - Jessica X Chong
+  - Ben Hutton
+  - Julia Foreman
+  - "Fran\xE7ois Schiettecatte"
+  - Tudor Groza
+  - Julius O B Jacobsen
+  - Melissa A Haendel
+  - Kym M Boycott
+  - Ada Hamosh
+  - Heidi L Rehm
+  - ' '
+  publisher: Current protocols in human genetics
+  date: '2017-10-18'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29044468
+  _cache: 9e736a43e4f67d8407d243326fd1c2de5b2dcf33147a3f8b4fef687303e3c390
+- id: pubmed:28475856
+  title: International Cooperation to Enable the Diagnosis of All Rare Genetic Diseases.
+  authors:
+  - Kym M Boycott
+  - Ana Rath
+  - Jessica X Chong
+  - Taila Hartley
+  - Fowzan S Alkuraya
+  - Gareth Baynam
+  - Anthony J Brookes
+  - Michael Brudno
+  - Angel Carracedo
+  - Johan T den Dunnen
+  - Stephanie O M Dyke
+  - Xavier Estivill
+  - Jack Goldblatt
+  - Catherine Gonthier
+  - Stephen C Groft
+  - Ivo Gut
+  - Ada Hamosh
+  - Philip Hieter
+  - "Sophie H\xF6hn"
+  - Matthew E Hurles
+  - Petra Kaufmann
+  - Bartha M Knoppers
+  - Jeffrey P Krischer
+  - Milan Macek
+  - Gert Matthijs
+  - Annie Olry
+  - Samantha Parker
+  - Justin Paschall
+  - Anthony A Philippakis
+  - Heidi L Rehm
+  - Peter N Robinson
+  - Pak-Chung Sham
+  - Rumen Stefanov
+  - Domenica Taruscio
+  - Divya Unni
+  - Megan R Vanstone
+  - Feng Zhang
+  - Han Brunner
+  - Michael J Bamshad
+  - "Hanns Lochm\xFCller"
+  publisher: American journal of human genetics
+  date: '2017-05-04'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/28475856
+  _cache: d069374a74ca4f3d3b1afcc6787935be875c89be833144a85d596f9685d70e70
+- id: pubmed:26656649
+  title: 'Gene discovery for Mendelian conditions via social networking: de novo variants
+    in KDM1A cause developmental delay and distinctive facial features.'
+  authors:
+  - Jessica X Chong
+  - Joon-Ho Yu
+  - Peter Lorentzen
+  - Karen M Park
+  - Seema M Jamal
+  - Holly K Tabor
+  - Anita Rauch
+  - Margarita Sifuentes Saenz
+  - Eugen Boltshauser
+  - Karynne E Patterson
+  - Deborah A Nickerson
+  - Michael J Bamshad
+  publisher: 'Genetics in medicine : official journal of the American College of Medical
+    Genetics'
+  date: '2015-12-10'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26656649
+  _cache: 1f1106aaca591740c40a69b99ccd4a1c57f0eb61accef2b715138168d383a954
+- id: pubmed:27040692
+  title: Recessive Inactivating Mutations in TBCK, Encoding a Rab GTPase-Activating
+    Protein, Cause Severe Infantile Syndromic Encephalopathy.
+  authors:
+  - Jessica X Chong
+  - Viviana Caputo
+  - Ian G Phelps
+  - Lorenzo Stella
+  - Lisa Worgan
+  - Jennifer C Dempsey
+  - Alina Nguyen
+  - Vincenzo Leuzzi
+  - Richard Webster
+  - Antonio Pizzuti
+  - Colby T Marvin
+  - Gisele E Ishak
+  - Simone Ardern-Holmes
+  - Zara Richmond
+  - ' '
+  - Michael J Bamshad
+  - Xilma R Ortiz-Gonzalez
+  - Marco Tartaglia
+  - Maya Chopra
+  - Dan Doherty
+  publisher: American journal of human genetics
+  date: '2016-03-31'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/27040692
+  _cache: 3163193e506a28bb5a9362948e62bcf960830c312deb365d38f84ee22ce87172
+- id: pubmed:26166479
+  title: 'The Genetic Basis of Mendelian Phenotypes: Discoveries, Challenges, and
+    Opportunities.'
+  authors:
+  - Jessica X Chong
+  - Kati J Buckingham
+  - Shalini N Jhangiani
+  - Corinne Boehm
+  - Nara Sobreira
+  - Joshua D Smith
+  - Tanya M Harrell
+  - Margaret J McMillin
+  - Wojciech Wiszniewski
+  - Tomasz Gambin
+  - Zeynep H Coban Akdemir
+  - Kimberly Doheny
+  - Alan F Scott
+  - Dimitri Avramopoulos
+  - Aravinda Chakravarti
+  - Julie Hoover-Fong
+  - Debra Mathews
+  - P Dane Witmer
+  - Hua Ling
+  - Kurt Hetrick
+  - Lee Watkins
+  - Karynne E Patterson
+  - Frederic Reinier
+  - Elizabeth Blue
+  - Donna Muzny
+  - Martin Kircher
+  - Kaya Bilguvar
+  - "Francesc L\xF3pez-Gir\xE1ldez"
+  - V Reid Sutton
+  - Holly K Tabor
+  - Suzanne M Leal
+  - Murat Gunel
+  - Shrikant Mane
+  - Richard A Gibbs
+  - Eric Boerwinkle
+  - Ada Hamosh
+  - Jay Shendure
+  - James R Lupski
+  - Richard P Lifton
+  - David Valle
+  - Deborah A Nickerson
+  - ' '
+  - Michael J Bamshad
+  publisher: American journal of human genetics
+  date: '2015-07-09'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26166479
+  _cache: e71b55397d305ae77597f0fc423169a29f0daef68a5f3f971928bea3963c7790
+- id: pubmed:25957469
+  title: Autosomal-Dominant Multiple Pterygium Syndrome Is Caused by Mutations in
+    MYH3.
+  authors:
+  - Jessica X Chong
+  - Lindsay C Burrage
+  - Anita E Beck
+  - Colby T Marvin
+  - Margaret J McMillin
+  - Kathryn M Shively
+  - Tanya M Harrell
+  - Kati J Buckingham
+  - Carlos A Bacino
+  - Mahim Jain
+  - Yasemin Alanay
+  - Susan A Berry
+  - John C Carey
+  - Richard A Gibbs
+  - Brendan H Lee
+  - Deborah Krakow
+  - Jay Shendure
+  - Deborah A Nickerson
+  - ' '
+  - Michael J Bamshad
+  publisher: American journal of human genetics
+  date: '2015-05-07'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25957469
+  _cache: 230ba3762c7b56c5ff670c937831dfa6a16589c1195acbedc332455df8c9636a
+- id: pubmed:25683120
+  title: De novo mutations in NALCN cause a syndrome characterized by congenital contractures
+    of the limbs and face, hypotonia, and developmental delay.
+  authors:
+  - Jessica X Chong
+  - Margaret J McMillin
+  - Kathryn M Shively
+  - Anita E Beck
+  - Colby T Marvin
+  - Jose R Armenteros
+  - Kati J Buckingham
+  - Naomi T Nkinsi
+  - Evan A Boyle
+  - Margaret N Berry
+  - Maureen Bocian
+  - Nicola Foulds
+  - Maria Luisa Giovannucci Uzielli
+  - Chad Haldeman-Englert
+  - Raoul C M Hennekam
+  - Paige Kaplan
+  - Antonie D Kline
+  - Catherine L Mercer
+  - Malgorzata J M Nowaczyk
+  - Jolien S Klein Wassink-Ruiter
+  - Elizabeth W McPherson
+  - Regina A Moreno
+  - Angela E Scheuerle
+  - Vandana Shashi
+  - Cathy A Stevens
+  - John C Carey
+  - Arnaud Monteil
+  - Philippe Lory
+  - Holly K Tabor
+  - Joshua D Smith
+  - Jay Shendure
+  - Deborah A Nickerson
+  - ' '
+  - Michael J Bamshad
+  publisher: American journal of human genetics
+  date: '2015-02-12'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25683120
+  _cache: a09b445946b396e487e0f87f266f3b53d28d04bb6688fd3c12a40633d2094186
+- id: pubmed:25087612
+  title: 'Pathogenic variants for Mendelian and complex traits in exomes of 6,517
+    European and African Americans: implications for the return of incidental results.'
+  authors:
+  - Holly K Tabor
+  - Paul L Auer
+  - Seema M Jamal
+  - Jessica X Chong
+  - Joon-Ho Yu
+  - Adam S Gordon
+  - Timothy A Graubert
+  - Christopher J O'Donnell
+  - Stephen S Rich
+  - Deborah A Nickerson
+  - ' '
+  - Michael J Bamshad
+  publisher: American journal of human genetics
+  date: '2014-07-31'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25087612
+  _cache: 57755c606955288f63fdb6d49660d8496fbe7ea02ed9a0d9e61e5f3a699c1e64
