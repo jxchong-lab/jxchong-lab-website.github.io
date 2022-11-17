@@ -29,14 +29,6 @@ Check out some of our published work!
 {:.center}
 {% endcapture %}
 
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="research"
-  title="Our Research"
-  text=text
-%}
-
 {% capture text %}
 Meet our growing team!
 
@@ -55,6 +47,5 @@ Meet our growing team!
   link="team"
   title="Our Team"
   text=text
-  flip=true
 %}
 

@@ -25,7 +25,9 @@ Our lab is part of the [Department of Pediatrics](https://www.peds.uw.edu/), at 
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
 University of Washington, Dept. of Pediatrics
+
 1959 NE Pacific Street, HSB I607I, Box 357371
+
 Seattle, WA 98195
 {:.center}
 

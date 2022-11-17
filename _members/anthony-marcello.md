@@ -2,7 +2,7 @@
 name: Anthony Marcello
 image: images/placeholder-headshot.png
 description: Research Scientist
-role: resci
+role: sci
 links:
   email: antmarc@uw.edu
 ---
