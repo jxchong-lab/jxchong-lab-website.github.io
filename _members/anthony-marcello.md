@@ -1,6 +1,6 @@
 ---
 name: Anthony Marcello
-image: images/member.jpg
+image: images/placeholder-headshot.png
 description: Research Scientist
 role: resci
 links:
