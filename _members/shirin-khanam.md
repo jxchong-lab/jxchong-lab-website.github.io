@@ -1,5 +1,5 @@
 ---
-name: Shiren Khanam
+name: Shirin Khanam
 image: images/placeholder-headshot.png
 description: Research Scientist
 role: sci
